@@ -1,0 +1,8 @@
+1. "I started by designing the navbar and footer."
+2. "Next, I worked on designing all the banner sections."
+3.  "I created the JSON data."
+4. "I fetched the data and displayed all the products."
+5.  "I experimented with creating local storage in a simple way."
+6.  "I worked on creating purchase options."
+7. "I created products by options." 
+8. "I displayed the product details."

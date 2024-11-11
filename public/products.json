@@ -1,0 +1,464 @@
+[
+    {
+        "product_id": "P001",
+        "product_title": "Apple iPhone 14 Pro",
+        "product_image": "https://i.ibb.co.com/sRXd6W5/i-Phone-14-Pro-Deep-Purple-7300.jpg",
+        "category": "phone",
+        "price": 999.99,
+        "description": "Apple iPhone 14 Pro with A16 Bionic chip, ProMotion display, and triple camera system.",
+        "Specification": [
+            "Display: 6.1-inch Super Retina XDR",
+            "Processor: A16 Bionic",
+            "Storage: 128GB, 256GB, 512GB, 1TB",
+            "Camera: Triple 48MP rear, 12MP front",
+            "Battery: Up to 22 hours video playback",
+            "OS: iOS 16"
+        ],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": "P002",
+        "product_title": "Samsung Galaxy S23 Ultra",
+        "product_image": "https://i.ibb.co.com/gTGVtkb/Galaxy-S23-Ultra-Green-3380.jpg",
+        "category": "phone",
+        "price": 1199.99,
+        "description": "Samsung Galaxy S23 Ultra with Snapdragon 8 Gen 2, 108MP camera, and S-Pen support.",
+        "Specification": [
+            "Display: 6.8-inch QHD+ Dynamic AMOLED",
+            "Processor: Snapdragon 8 Gen 2",
+            "Storage: 256GB, 512GB, 1TB",
+            "Camera: Quad 108MP rear, 12MP front",
+            "Battery: 5000mAh",
+            "OS: Android 13"
+        ],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "P003",
+        "product_title": "Google Pixel 7 Pro",
+        "product_image": "https://i.ibb.co.com/JmfLB7s/9880456c2484c1fa388aebce7c197e22.png",
+        "category": "phone",
+        "price": 899.99,
+        "description": "Google Pixel 7 Pro with Google Tensor G2, advanced AI features, and a stunning OLED display.",
+        "Specification": [
+            "Display: 6.7-inch QHD+ OLED",
+            "Processor: Google Tensor G2",
+            "Storage: 128GB, 256GB, 512GB",
+            "Camera: Triple 50MP rear, 12MP front",
+            "Battery: 5000mAh",
+            "OS: Android 13"
+        ],
+        "availability": false,
+        "rating": 4.6
+    },
+    {
+        "product_id": "P004",
+        "product_title": "OnePlus 11",
+        "product_image": "https://i.ibb.co.com/9WH6NHh/One-Plus-11-3-4957.jpg",
+        "category": "phone",
+        "price": 699.99,
+        "description": "OnePlus 11 with Snapdragon 8 Gen 2, ultra-fast charging, and premium design.",
+        "Specification": [
+            "Display: 6.7-inch 2K AMOLED",
+            "Processor: Snapdragon 8 Gen 2",
+            "Storage: 128GB, 256GB",
+            "Camera: Triple 50MP rear, 16MP front",
+            "Battery: 5000mAh with 100W fast charging",
+            "OS: Android 13"
+        ],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "P005",
+        "product_title": "Xiaomi 13 Pro",
+        "product_image": "https://i.ibb.co.com/PrGnhkg/Xiaomi-13-Pro-Ceramic-White-4073.jpg",
+        "category": "Smartphone",
+        "price": 749.99,
+        "description": "Xiaomi 13 Pro with Leica-tuned cameras, powerful Snapdragon 8 Gen 2, and ceramic design.",
+        "Specification": [
+            "Display: 6.73-inch QHD+ AMOLED",
+            "Processor: Snapdragon 8 Gen 2",
+            "Storage: 128GB, 256GB, 512GB",
+            "Camera: Triple 50MP Leica rear, 32MP front",
+            "Battery: 4820mAh with 120W fast charging",
+            "OS: Android 13"
+        ],
+        "availability": true,
+        "rating": 4.4
+    },
+    
+    {
+          "product_id": "LAP1001",
+          "product_title": "Acer Aspire 5",
+          "product_image": "https://i.ibb.co.com/q05KFyD/Aspire37-VK-22-1.jpg",
+          "category": "Laptop",
+          "price": 549.99,
+          "description": "Acer Aspire 5 with a sleek design, perfect for everyday computing and productivity tasks.",
+          "Specification": [
+            "Intel Core i5 10th Gen",
+            "8GB DDR4 RAM",
+            "256GB SSD",
+            "15.6-inch Full HD display",
+            "Intel UHD Graphics",
+            "Windows 10 Home"
+          ],
+          "availability": true,
+          "rating": 4.2
+        },
+        {
+          "product_id": "LAP1002",
+          "product_title": "Dell Inspiron 15",
+          "product_image": "https://i.ibb.co.com/LzmXm67/Dell-Inspiron-15-3505-Ryzen-7-15-6-FHD-Soft-Mint-Laptop.jpg",
+          "category": "Laptop",
+          "price": 629.99,
+          "description": "Dell Inspiron 15 for smooth performance and great multitasking capabilities.",
+          "Specification": [
+            "Intel Core i7 11th Gen",
+            "12GB DDR4 RAM",
+            "512GB SSD",
+            "15.6-inch Full HD display",
+            "Intel Iris Xe Graphics",
+            "Windows 10 Pro"
+          ],
+          "availability": true,
+          "rating": 4.5
+        },
+        {
+          "product_id": "LAP1003",
+          "product_title": "HP Pavilion x360",
+          "product_image": "https://i.ibb.co.com/82LYB3h/c08212326.png",
+          "category": "Laptop",
+          "price": 749.99,
+          "description": "Convertible HP Pavilion x360 with a 360-degree hinge for versatile use.",
+          "Specification": [
+            "Intel Core i5 12th Gen",
+            "8GB DDR4 RAM",
+            "512GB SSD",
+            "14-inch Full HD touchscreen",
+            "Intel Iris Xe Graphics",
+            "Windows 11 Home"
+          ],
+          "availability": true,
+          "rating": 4.3
+        },
+        {
+          "product_id": "LAP1004",
+          "product_title": "Lenovo ThinkPad E15",
+          "product_image": "https://i.ibb.co.com/vkdwQmx/giant-290777.jpg",
+          "category": "Laptop",
+          "price": 899.99,
+          "description": "Lenovo ThinkPad E15 for business with durability and top-notch security features.",
+          "Specification": [
+            "AMD Ryzen 7 5700U",
+            "16GB DDR4 RAM",
+            "512GB SSD",
+            "15.6-inch Full HD display",
+            "AMD Radeon Graphics",
+            "Windows 11 Pro"
+          ],
+          "availability": true,
+          "rating": 4.6
+        },
+        {
+          "product_id": "LAP1005",
+          "product_title": "Apple MacBook Air M2",
+          "product_image": "https://i.ibb.co.com/x52jXd0/MBAM2.png",
+          "category": "Laptop",
+          "price": 1199.99,
+          "description": "Apple MacBook Air with M2 chip for ultrafast performance and efficiency.",
+          "Specification": [
+            "Apple M2 chip",
+            "8GB unified memory",
+            "256GB SSD",
+            "13.6-inch Retina display",
+            "Integrated 8-core GPU",
+            "macOS"
+          ],
+          "availability": false,
+          "rating": 4.8
+        },
+        {
+            "product_id": "A001",
+            "product_title": "Wireless Bluetooth Earbuds",
+            "product_image": "https://i.ibb.co.com/VSK4X9M/UGREEN-Nexode-Power-Bank-20000m-Ah-130-W-1.png",
+            "category": "Wearable Accessories",
+            "price": 49.99,
+            "description": "High-quality wireless Bluetooth earbuds with noise-cancellation and long battery life.",
+            "Specification": [
+              "Bluetooth 5.0",
+              "Noise Cancelling",
+              "20-hour battery life",
+              "IPX7 Waterproof"
+            ],
+            "availability": true,
+            "rating": 4.5,
+            "color": "Black"
+          },
+          {
+            "product_id": "A003",
+            "product_title": "Gaming Mouse with RGB Lighting",
+            "product_image": "https://i.ibb.co.com/Wx31YNr/m10-tws-true-wireless-bluetooth-earbuds-earphone-with-led-digital-display-touch-earbuds-headphone-bt.jpg",
+            "category": "Wearable Accessories",
+            "price": 24.99,
+            "description": "Ergonomic gaming mouse with customizable RGB lighting and adjustable DPI.",
+            "Specification": [
+              "Adjustable DPI (800-16000)",
+              "RGB Lighting",
+              "Ergonomic Design",
+              "6 Programmable Buttons"
+            ],
+            "availability": true,
+            "rating": 4.8,
+            "weight": "100g"
+          },
+          {
+            "product_id": "A004",
+            "product_title": "Laptop Stand Adjustable Height",
+            "product_image": "https://i.ibb.co.com/FgvbQVW/images.jpg",
+            "category": "Computer Accessories",
+            "price": 19.99,
+            "description": "Adjustable laptop stand for better ergonomics, made of lightweight aluminum.",
+            "Specification": [
+              "Aluminum Alloy",
+              "Height Adjustable",
+              "Non-Slip Base",
+              "Portable Design"
+            ],
+            "availability": true,
+            "rating": 4.6,
+            "dimensions": "28x24x2 cm"
+          },
+          {
+            "product_id": "A005",
+            "product_title": "Smart Watch with Heart Rate Monitor",
+            "product_image": "https://i.ibb.co.com/LtLCj8Q/32911-postsfacebook-lg-1622975686-b-Fbp-column-width-inline.jpg",
+            "category": "Wearable Accessories",
+            "price": 59.99,
+            "description": "Smartwatch with health tracking, heart rate monitor, and GPS functionality.",
+            "Specification": [
+              "Heart Rate Monitor",
+              "GPS Tracking",
+              "Waterproof (IP68)",
+              "Sleep Monitoring"
+            ],
+            "availability": false,
+            "rating": 4.3,
+            "battery_life": "7 days"
+          },
+          {
+            "product_id": "SW001",
+            "product_title": "Smart Watch Series 5",
+            "product_image": "https://i.ibb.co.com/jMyMmmf/T55-Smartwatch-with-Dual-Straps-2.jpg",
+            "category": "Wearable Accessories",
+            "price": 299.99,
+            "description": "Advanced smartwatch with ECG monitoring, heart rate tracking, and a Retina display.",
+            "Specification": [
+              "ECG Monitoring",
+              "Heart Rate Tracking",
+              "Retina Display",
+              "Water Resistant (IP68)",
+              "Built-in GPS",
+              "18-hour battery life"
+            ],
+            "availability": true,
+            "rating": 4.8,
+            "color": "Space Gray",
+            "connectivity": "Bluetooth, Wi-Fi"
+          },
+          {
+            "product_id": "SW002",
+            "product_title": "Fitness Tracker Pro",
+            "product_image": "https://i.ibb.co.com/60VtHGQ/m5pro-1.jpg",
+            "category": "Wearable Accessories",
+            "price": 79.99,
+            "description": "Affordable fitness tracker with sleep monitoring, calorie tracking, and IP67 waterproof rating.",
+            "Specification": [
+              "Sleep Monitoring",
+              "Calorie Tracking",
+              "Step Counter",
+              "IP67 Waterproof",
+              "7-day battery life"
+            ],
+            "availability": true,
+            "rating": 4.5,
+            "color": "Black",
+            "compatibility": "iOS and Android"
+          },
+          {
+            "product_id": "SW003",
+            "product_title": "Luxury Smartwatch Ultra",
+            "product_image": "https://i.ibb.co.com/sjSByYN/819-DWQLgj-KL.jpg",
+            "category": "Wearable Accessories",
+            "price": 499.99,
+            "description": "Premium smartwatch with sapphire crystal display, titanium case, and high-precision heart rate sensor.",
+            "Specification": [
+              "Sapphire Crystal Display",
+              "Titanium Case",
+              "High-Precision Heart Rate Sensor",
+              "SpO2 Monitoring",
+              "Wireless Charging",
+              "5-day battery life"
+            ],
+            "availability": false,
+            "rating": 4.9,
+            "color": "Silver",
+            "connectivity": "Bluetooth, Wi-Fi, Cellular"
+          },
+          {
+            "product_id": "SW004",
+            "product_title": "Smart Watch Kids Edition",
+            "product_image": "https://i.ibb.co.com/kDhRg52/8749921777e1330fe0df101fbaa7a04c-jpg-720x720q80.jpg",
+            "category": "Wearable Accessories",
+            "price": 49.99,
+            "description": "Safe and fun smartwatch for kids with GPS tracking, emergency SOS button, and durable design.",
+            "Specification": [
+              "GPS Tracking",
+              "Emergency SOS Button",
+              "Durable Design",
+              "Parental Controls",
+              "Waterproof (IP65)"
+            ],
+            "availability": true,
+            "rating": 4.3,
+            "color": "Blue",
+            "recommended_age": "6-12 years"
+          },
+          {
+            "product_id": "SW005",
+            "product_title": "Outdoor Smartwatch with Altimeter",
+            "product_image": "https://i.ibb.co.com/DDwDX0K/17974098.png",
+            "category": "Wearable Accessories",
+            "price": 199.99,
+            "description": "Rugged smartwatch designed for outdoor activities with altimeter, barometer, and compass.",
+            "Specification": [
+              "Altimeter",
+              "Barometer",
+              "Compass",
+              "GPS Tracking",
+              "10-day battery life",
+              "Water Resistant (50m)"
+            ],
+            "availability": true,
+            "rating": 4.6,
+            "color": "Green",
+            "weight": "65g"
+          },
+          
+          {
+            "product_id": "MB001",
+            "product_title": "MacBook Air 13-inch M1",
+            "product_image": "https://i.ibb.co.com/4ZY1ZMC/apple-macbook-air-13-3-laptop1-550x350h.jpg",
+            "category": "MackBook",
+            "price": 999.00,
+            "description": "The MacBook Air with Apple M1 chip, 13-inch Retina display, and up to 18 hours of battery life.",
+            "Specification": [
+              "Apple M1 chip with 8-core CPU",
+              "13.3-inch Retina display",
+              "8GB RAM, 256GB SSD",
+              "Battery life up to 18 hours",
+              "Weight: 2.8 pounds"
+            ],
+            "availability": true,
+            "rating": 4.8,
+            "color": "Space Gray",
+            "warranty": "1 year"
+          },
+          {
+            "product_id": "MB002",
+            "product_title": "MacBook Pro 14-inch M1 Pro",
+            "product_image": "https://i.ibb.co.com/Df9LvWv/macbook-pro-14-01-500x500-1-1.jpg",
+            "category": "MackBook",
+            "price": 1999.00,
+            "description": "The MacBook Pro 14-inch with M1 Pro chip, Liquid Retina XDR display, and powerful performance for professionals.",
+            "Specification": [
+              "Apple M1 Pro chip with 10-core CPU",
+              "14.2-inch Liquid Retina XDR display",
+              "16GB RAM, 512GB SSD",
+              "Battery life up to 17 hours",
+              "Weight: 3.5 pounds"
+            ],
+            "availability": true,
+            "rating": 4.9,
+            "color": "Silver",
+            "ports": "3 Thunderbolt 4, HDMI, SDXC card slot"
+          },
+          {
+            "product_id": "MB003",
+            "product_title": "MacBook Pro 16-inch M2 Max",
+            "product_image": "https://i.ibb.co.com/XFws5Gj/Apple-Mac-Book-Pro-M2-Pro-and-M2-Max-hero-230117-Full-Bleed-Image-jpg-large.jpg",
+            "category": "MackBook",
+            "price": 3499.00,
+            "description": "The MacBook Pro 16-inch with M2 Max chip, stunning Liquid Retina XDR display, and up to 8TB storage.",
+            "Specification": [
+              "Apple M2 Max chip with 12-core CPU",
+              "16.2-inch Liquid Retina XDR display",
+              "32GB RAM, 1TB SSD (configurable up to 8TB)",
+              "Battery life up to 21 hours",
+              "Weight: 4.7 pounds"
+            ],
+            "availability": false,
+            "rating": 4.7,
+            "color": "Space Gray",
+            "audio": "High-fidelity six-speaker sound system with force-canceling woofers"
+          },
+
+          {
+            "product_id": "I001",
+            "product_title": "iPhone 14 Pro Max",
+            "product_image": "https://i.ibb.co.com/jT4q1Dr/i-Phone-14-Pro-Max-price-in-bangladesh.jpg",
+            "category": "Smartphones",
+            "price": 999.99,
+            "description": "Apple iPhone 14 Pro Max with advanced camera system, A16 Bionic chip, and stunning Super Retina XDR display.",
+            "Specification": [
+              "6.1-inch Super Retina XDR display",
+              "A16 Bionic chip",
+              "Triple 48MP camera system",
+              "5G Capable",
+              "Up to 1TB storage options"
+            ],
+            "availability": true,
+            "rating": 4.8,
+            "color_options": ["Space Black", "Silver", "Gold", "Deep Purple"]
+          },
+          {
+            "product_id": "I002",
+            "product_title": "iPhone 13",
+            "product_image": "https://i.ibb.co.com/hd9B8nb/Apple-i-Phone-13.jpg",
+            "category": "Smartphones",
+            "price": 699.99,
+            "description": "Apple iPhone 13 with A15 Bionic chip, dual-camera system, and improved battery life.",
+            "Specification": [
+              "6.1-inch Super Retina XDR display",
+              "A15 Bionic chip",
+              "Dual 12MP camera system",
+              "5G Capable",
+              "128GB, 256GB, 512GB storage options"
+            ],
+            "availability": true,
+            "rating": 4.7,
+            "battery_life": "Up to 19 hours video playback"
+          },
+          {
+            "product_id": "I003",
+            "product_title": "iPhone SE (3rd Generation)",
+            "product_image": "https://i.ibb.co.com/W05yLWh/Apple-iphone-se-3rd-generation-2.png",
+            "category": "Smartphones",
+            "price": 429.99,
+            "description": "Apple iPhone SE (3rd Gen) with A15 Bionic chip and compact design, offering great performance at an affordable price.",
+            "Specification": [
+              "4.7-inch Retina HD display",
+              "A15 Bionic chip",
+              "Single 12MP wide camera",
+              "5G Capable",
+              "64GB, 128GB, 256GB storage options"
+            ],
+            "availability": true,
+            "rating": 4.5,
+            "dimensions": "138.4 x 67.3 x 7.3 mm"
+          }
+
+]
+
